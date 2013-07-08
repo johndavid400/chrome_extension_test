@@ -1,0 +1,16 @@
+{
+   "background": {
+         "page": "background.html"
+      },
+   "content_scripts": [ {
+         "js": [ "myScript.js" ],
+         "matches": [ "http://*/*", "https://*/*" ]
+      } ],
+   "content_security_policy": "script-src 'self' https://s.skimresources.com; object-src 'self'",
+   "description": "Sup network.",
+   "homepage_url": "http://yesboxx.com",
+   "manifest_version": 2,
+   "name": "Yesboxx Charity Extension",
+   "permissions": ["tabs", "http://*/*"],
+   "version": "0.2"
+}
