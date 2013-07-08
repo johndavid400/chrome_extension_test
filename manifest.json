@@ -3,7 +3,7 @@
          "page": "background.html"
       },
    "content_scripts": [ {
-         "js": [ "myScript.js" ],
+         "js": [ "jquery.js", "script.js" ],
          "matches": [ "http://*/*", "https://*/*" ]
       } ],
    "content_security_policy": "script-src 'self' https://s.skimresources.com; object-src 'self'",
