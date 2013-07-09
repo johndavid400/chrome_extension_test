@@ -1,6 +1,6 @@
 # Extension Test for Chrome webbrowser
 
-## Testing basic javascript injection into any webpage via extension
+#### Testing basic javascript injection into any webpage via extension
 
 ## Setup
 
