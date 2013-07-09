@@ -4,13 +4,16 @@
 
 ## Setup
 
-#### Clone repo
-#### Open Chrome and navigate to:
+Clone repo
+
+Open Chrome and navigate to:
 
     chrome://extensions/
 
-#### Click box "Devleoper mode" 
-#### Click button "Load unpacked extension..."
-#### Navigate to repo and click "Open" from dialog
+Click box "Devleoper mode" 
+
+Click button "Load unpacked extension..."
+
+Navigate to repo and click "Open" from dialog
 
 
