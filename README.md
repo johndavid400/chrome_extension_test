@@ -1,4 +1,4 @@
-# Extension Test for Chrome webbrowser
+# Extension Test for Chrome browser
 
 #### Testing basic javascript injection into any webpage via extension
 
